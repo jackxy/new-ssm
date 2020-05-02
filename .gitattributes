@@ -1,0 +1,2 @@
+*.sql linguist-language=vue
+*.zip linguist-language=springboot
