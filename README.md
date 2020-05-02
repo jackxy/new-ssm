@@ -10,5 +10,5 @@
 
 * 有问题，加我微信，进技术交流群 xdclass-lw
 
-* 如果还需要其他课程提升 https://xdclass.net  
+* 更多其他技术 https://xdclass.net  
 
